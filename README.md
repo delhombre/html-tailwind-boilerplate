@@ -13,5 +13,10 @@ Make sure you have [Node.js](https://nodejs.org/) or [Bun](https://bun.sh/) inst
 2. Install dependencies:
 
    ```bash
-   npm|bun|pnpm|yarn install
+      bun install
+   ```
+3. Run the dev server:
+
+   ```bash
+      bun run dev
    ```
